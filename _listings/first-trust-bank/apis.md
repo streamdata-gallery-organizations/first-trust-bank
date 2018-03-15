@@ -11,8 +11,8 @@ x-alexaRank: ""
 tags:
 - UK Banks
 - ATMs
-created: "2018-03-10"
-modified: "2018-03-10"
+created: "2018-03-14"
+modified: "2018-03-14"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/first-trust-bank/master/_listings/first-trust-bank/apis.yaml
 specificationVersion: "0.14"
 apis:
