@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: first-trust-bank.api.streamdata.gallery
+title: Streamdata Gallery First Trust Bank
+url: first-trust-bank.streamdata.gallery
 tag: First Trust Bank
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: first-trust-bank
 github_branch: master
 collections:
